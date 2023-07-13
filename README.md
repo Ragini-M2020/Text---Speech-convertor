@@ -5,6 +5,8 @@ The converter has a simple user interface that allows users to enter text and se
 When the user clicks on the "listen" button, the text is converted to speech in the selected language.
 Here are some of the specific steps you took to create the project:
 
+
+STEPS:
 I created a folder for the project and created the following files:
 index.html
 style.css
@@ -14,3 +16,6 @@ script.js
  added the necessary JavaScript code to the script.js file to convert the text to speech and play it back.
  tested the converter to make sure it was working properly.
 I hope this gives you a rough overview of the project I made . 
+
+
+PREVIEW: https://ragini-m2020.github.io/Text---Speech-convertor/
