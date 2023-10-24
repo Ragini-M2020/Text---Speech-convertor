@@ -15,7 +15,7 @@ script.js
  added the necessary CSS code to the style.css file to style the user interface.
  added the necessary JavaScript code to the script.js file to convert the text to speech and play it back.
  tested the converter to make sure it was working properly.
-I hope this gives you a rough overview of the project I made . 
+I hope this gives you a rough overview of the project I made  
 
 
 PREVIEW: https://ragini-m2020.github.io/Text---Speech-convertor/
